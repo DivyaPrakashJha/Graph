@@ -1,0 +1,27 @@
+Minimum Spanning Tree
+
+
+-> Tree
+A tree is a connected graph in which no cycles are present (Can be simply called an undirected acyclic connected graph). 
+An important property of a tree is that every pair of nodes in a tree has exactly one path between them.
+
+
+-> Spanning Tree
+
+Given a connected graph G, a spanning tree is a tree whose vertex set is exactly same as that of G 
+and edge set is a subset (may be equal) of that of G. 
+Informally speaking, a spanning tree is a tree T formed by deleting some edges of G 
+but preserving the fact that every two nodes in original graph have a path between them in T also.
+
+-* n nodes and n-1 edges and all nodes are reachable from each other
+-* A graph can have multiple spanning trees
+
+
+-> Minimum Spanning Tree
+
+The spanning tree having the minimum cost (Sum of all edges) amongst all the spanning trees of the graph is the MST.
+
+
+Algorithms (MST) :
+1. Prim's Algorithm
+2. Kruskal's Algorithm

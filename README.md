@@ -1,0 +1,55 @@
+# Graph
+
+1. Introduction and Basic Terminologies
+2. Graph Representation
+3. Breadth First Search - Bfs
+4. Depth First Search - Dfs
+5. Number of Provinces (No. of Connected Components) 
+6. Number of Islands (No. of Connected Components [Matrix])
+7. Flood Fill
+8. Rotten Oranges (Multisource bfs)
+9. Detect Cycle in an Undirected Graph using bfs
+10. Detect Cycle in an Undirected Graph using dfs
+11. Distance of nearest cell having 1 (Multisource bfs)
+12. Replace O's with X's (Observation and traversal)
+13. Number of Enclaves (Observation and traversal)
+14. Number of Distinct Islands (Constructive and dfs)
+15. Check for bipartite graph using bfs
+16. Check for bipartite graph using dfs
+17. Detect a cycle in a directed graph using dfs
+18. Eventual Safe States (Cycle Detection)
+19. Topological Sorting using dfs
+20. Topological Sorting using bfs - Kahn's Algorithm
+21. Detect a cycle in a directed graph using Topological Sort(bfs)
+22. Prerequisite Tasks (Detect a cycle in a Directed Graph)
+23. Course Schedule (Topological Sort)
+24. Eventual Safe States (Topological Sort)
+25. Alien Dictionary (Topological Sort)
+26. Shortest Path in Directed Acyclic Graph using Topological Sort
+27. Shortest Path in Undirected Graph with unit weights
+28. Word Ladder-I (Shortest Path)
+29. Word Ladder-II (Shortest Path)
+30. Dijkstra's Algorithm using Priority Queue
+31. Dijkstra's Algorithm using Set
+32. Shoretest Path in Weighted undirected graph (Dijkstra)
+33. Shortest Distance in a Binary Maze (Djikstra)
+34. Path with Minimum Effort (Djikstra)
+35. Cheapest Flights within k stops (Djikstra)
+36. Minimum Multiplications to Reach End (Djikstra)
+37. Number of ways to arrive at destination (Djikstra)
+38. Bellman Ford Algorithm
+39. Floyd Warshall Algorithm
+40. Find the city with the smallest number of neighbours at a threshold (Floyd Warshall)
+41. Minimum Spanning Tree
+42. Prim's Algorithm
+43. Disjoint Set - Union by Rank - Union by Size - Path Compression
+44. Kruskal's Algorithm
+45. Number of Provinces (DSU)
+46. Number of operations to make network Connected (DSU)
+47. Accounts Merge (DSU)
+48. Number of Islands-II (Online Queries) (DSU)
+49. Making a Large Island (DSU)
+50. Most Stones Removed with Same Row or Column (DSU)
+51. Strongly Connected Components - Kosaraju's Algorithm
+52. Bridges in Graph - Tarjan's Algorithm
+53. Articulation Point in Graph

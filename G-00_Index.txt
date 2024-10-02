@@ -36,10 +36,8 @@
 36. Minimum Multiplications to Reach End (Djikstra)
 37. Number of ways to arrive at destination (Djikstra)
 38. Bellman Ford Algorithm
-
 39. Floyd Warshall Algorithm
 40. Find the city with the smallest number of neighbours at a threshold (Floyd Warshall)
-
 41. Minimum Spanning Tree
 42. Prim's Algorithm
 43. Disjoint Set - Union by Rank - Union by Size - Path Compression
@@ -52,5 +50,4 @@
 50. Most Stones Removed with Same Row or Column (DSU)
 51. Strongly Connected Components - Kosaraju's Algorithm
 52. Bridges in Graph - Tarjan's Algorithm
-
 53. Articulation Point in Graph
